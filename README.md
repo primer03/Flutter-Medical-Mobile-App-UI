@@ -22,14 +22,6 @@ If this is your first Flutter project, you can begin by writing your first Flutt
 - [Flutter Codelab](https://docs.flutter.dev/get-started/codelab) - Step-by-step guide to building your first Flutter app.
 - [Flutter Cookbook](https://docs.flutter.dev/cookbook) - Collection of Flutter code samples for common use cases.
 
-## Additional Resources
-
-For comprehensive Flutter development assistance, explore the [online documentation](https://docs.flutter.dev/). It includes:
-
-- Tutorials and guides
-- Sample projects
-- API reference documentation
-
 ## Credits
 
 - UI Design: The UI design for this project is based on the [Medical Mobile App UI](https://www.figma.com/community/file/1172153496393189176/medical-mobile-app?searchSessionId=lxpyhz4r-2nxagw10ip) from Figma.
