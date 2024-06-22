@@ -6,6 +6,11 @@ Welcome to **Medic**, a Flutter project designed for medical mobile applications
 
 This project serves as a starting point for developing a Flutter application tailored for the medical field. Whether you're creating a patient management system, telemedicine app, or healthcare provider tool, Medic provides a foundation to build upon.
 
+## Preview
+
+![Image 1](https://i.imgur.com/ALPplbr.jpeg)
+![Image 2](https://i.imgur.com/pN1nN1l.jpeg)
+
 ## Getting Started
 
 If this is your first Flutter project, you can begin by writing your first Flutter app using the following resources:
